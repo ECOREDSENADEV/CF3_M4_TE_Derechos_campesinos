@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Zonificación, estudio ambiental  y ecosistemas estratégicos'
