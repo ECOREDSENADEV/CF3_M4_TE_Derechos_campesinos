@@ -7,7 +7,7 @@
         span 3
       h1 Cartografía social 
     
-    .row.align-items-center
+    .row.align-items-center.mb-5
       .col-lg-2.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema3/1.svg", data-aos="zoom-in")
@@ -31,7 +31,7 @@
       .col-lg-8.order-lg-1
         .bg-color-17.tarjeta.mb-3(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema3/3.svg', alt='')
             .col-lg
@@ -43,7 +43,7 @@
     .bg-full-width.bg-color-16.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema3/4.svg", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0 La cartografía social en este contexto no solo sirvió como una herramienta de diagnóstico, sino como un medio de resistencia simbólica y de recuperación de la dignidad territorial. (Unidad de Restitución de Tierras, 2018)

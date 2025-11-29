@@ -15,7 +15,7 @@
         p(data-aos="fade-up") Los sistemas y herramientas de gestión ambiental son esenciales para alcanzar un desempeño ambiental sostenible en las organizaciones. Estos mecanismos permiten identificar, evaluar y controlar los impactos ambientales derivados de las actividades humanas y productivas, promoviendo una gestión responsable de los recursos naturales.
         .bg-color-17.tarjeta.mb-3(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema6/2.svg', alt='')
             .col-lg
@@ -148,29 +148,29 @@
             p(data-aos="fade-left").mb-0 Las buenas prácticas ambientales constituyen una herramienta clave para fomentar la sostenibilidad en los sectores productivos, institucionales y comunitarios. De acuerdo con el Ministerio de Ambiente y Desarrollo Sostenible de Colombia (2016), se trata de un conjunto de acciones voluntarias orientadas a:
         
         .row.justify-content-center
-          .col-md-6.col-lg-4(data-aos="fade-up").mb-3.mb-lg-0
+          .col-lg-6.col-xl-4(data-aos="fade-up").mb-3.mb-lg-0
             .bg-color-17.tarjeta.mb-5
               .p-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema6/13.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 01
                     p.mb-0 Optimizar el uso de los recursos naturales.
-          .col-md-6.col-lg-4(data-aos="fade-down").mb-3.mb-lg-0
+          .col-lg-6.col-xl-4(data-aos="fade-down").mb-3.mb-lg-0
             .bg-color-17.tarjeta.mb-5
               .p-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema6/14.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 02
                     p.mb-0 Disminuir la contaminación.
-          .col-md-6.col-lg-4(data-aos="fade-up").mb-3.mb-lg-0
+          .col-lg-6.col-xl-4(data-aos="fade-up").mb-3.mb-lg-0
             .bg-color-17.tarjeta.mb-5
               .p-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema6/15.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 03
@@ -191,7 +191,7 @@
             p(data-aos="fade-left") La educación ambiental es una herramienta esencial para promover la conciencia ecológica y el compromiso ciudadano con el entorno. Fomenta la comprensión crítica de las relaciones entre los seres humanos y la naturaleza, así como la participación activa en la solución de problemas ambientales. Según la UNESCO (2017), su propósito es formar ciudadanos capaces de:
             .bg-color-5.tarjeta.p-4.mb-3(data-aos="fade-left")
               .row.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema6/17.svg", style="max-width: 275px").mx-auto
                 .col-lg
                   div.bg-color-white.p-3.tarjeta
@@ -221,7 +221,7 @@
             p(data-aos="fade-up") Las licencias ambientales son un instrumento clave de la política ambiental, pues garantizan que los proyectos con potencial impacto negativo se ejecuten bajo condiciones que minimicen los daños al entorno.
             .bg-color-16.tarjeta.mb-3(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema6/19.svg', alt='')
                 .col-lg
@@ -230,29 +230,29 @@
             p La Autoridad Nacional de Licencias Ambientales (ANLA, 2020) destaca que este instrumento promueve:
 
         .row.justify-content-center
-          .col-md-6.col-lg-4(data-aos="fade-down").mb-3.mb-lg-0
+          .col-lg-6.col-xl-4(data-aos="fade-down").mb-3.mb-lg-0
             .bg-color-17.tarjeta.mb-5
               .p-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema6/20.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 01
                     p.mb-0 Optimizar el uso de los recursos naturales.
-          .col-md-6.col-lg-4(data-aos="fade-down").mb-3.mb-lg-0
+          .col-lg-6.col-xl-4(data-aos="fade-down").mb-3.mb-lg-0
             .bg-color-17.tarjeta.mb-5
               .p-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema6/21.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 02
                     p.mb-0 Disminuir la contaminación.
-          .col-md-6.col-lg-4(data-aos="fade-down").mb-3.mb-lg-0
+          .col-lg-6.col-xl-4(data-aos="fade-down").mb-3.mb-lg-0
             .bg-color-17.tarjeta.mb-5
               .p-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema6/22.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 03

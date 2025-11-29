@@ -19,7 +19,7 @@
 
             .bg-color-16.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0.order-lg-2
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0.mb-3.mb-lg-0.order-lg-2
                   figure
                     img(src='@/assets/curso/intro/2.png', alt='')
                 .col-lg.order-lg-1
@@ -29,7 +29,7 @@
         .bg-full-width.bg-color-17
           .px-4.px-md-5.py-4
             .row.align-items-center
-              .col-lg-auto.mb-3.mb-lg-0
+              .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                 img(src="@/assets/curso/intro/3.svg", style="max-width: 90px").mx-auto
               .col-lg
                 p.mb-0 Finalmente, la gestión ambiental y de los recursos requiere sistemas, instrumentos y prácticas que garanticen el uso responsable del territorio y la preservación de los bienes naturales. Conceptos como la evaluación de impacto ambiental, las licencias ambientales, las buenas prácticas, la educación ambiental y la inversión pública en proyectos de desarrollo conforman un marco integral que permite a las instituciones y comunidades avanzar hacia escenarios sostenibles, equitativos y resilientes.

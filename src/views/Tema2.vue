@@ -17,7 +17,7 @@
             p(data-aos="fade-up") Los fundamentos del dibujo de planos constituyen la base para la elaboración de representaciones gráficas técnicas que permiten plasmar una idea, proyecto o construcción de manera clara, precisa y comprensible. Este proceso implica la aplicación rigurosa de principios geométricos, normas técnicas y convenciones gráficas, con el fin de traducir conceptos tridimensionales en representaciones bidimensionales mediante el uso de símbolos, escalas, medidas y proyecciones normalizadas.
             .bg-color-17.tarjeta.mb-3(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema2/2.svg', alt='')
                 .col-lg

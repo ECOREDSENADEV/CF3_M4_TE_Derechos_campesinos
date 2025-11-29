@@ -17,7 +17,7 @@
             p(data-aos="fade-up") La georreferenciación es el proceso mediante el cual se asignan coordenadas geográficas (específicamente latitud y longitud) a elementos, imágenes o datos espaciales, con el fin de ubicarlos correctamente sobre la superficie terrestre. Este procedimiento es fundamental para integrar información espacial con datos temáticos, ya que permite representarla, analizarla y gestionarla en función de su ubicación real.
             .bg-color-19.tarjeta.mb-3(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema4/2.svg', alt='')
                 .col-lg
@@ -39,7 +39,7 @@
             .bg-color-20.tarjeta.mb-5
               .p-4.p-md-5
                 .row.justify-content-center.align-items-center
-                  .col-lg-5
+                  .col-lg-5.mb-3.mb-lg-0
                     figure
                       img(src="@/assets/curso/tema4/4.svg", data-aos="zoom-in")
                   .col-lg-7
